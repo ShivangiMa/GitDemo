@@ -33,3 +33,12 @@ class ConfirmPage :
     
     def getAlertText(self):
         return self.driver.find_element(*ConfirmPage.alerttxt)
+
+    def getAlertTextABCD(self):
+        return self.driver.find_element(*ConfirmPage.alerttxt)
+
+    def getAlertTextEFGH(self):
+        return self.driver.find_element(*ConfirmPage.alerttxt)
+
+    def getAlertTextIJKL(self):
+        return self.driver.find_element(*ConfirmPage.alerttxt)
