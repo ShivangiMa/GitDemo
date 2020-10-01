@@ -1,0 +1,91 @@
+2020-09-28 16:45:16,495 :INFO : test_e2e : Getting all the cart Titles
+2020-09-28 16:45:16,534 :INFO : test_e2e : iphone X
+2020-09-28 16:45:16,547 :INFO : test_e2e : Samsung Note 8
+2020-09-28 16:45:16,559 :INFO : test_e2e : Nokia Edge
+2020-09-28 16:45:16,571 :INFO : test_e2e : Blackberry
+2020-09-28 16:45:16,761 :INFO : test_e2e : Entering Country Name-IND
+2020-09-28 16:45:22,363 :INFO : test_e2e : Text receuved form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 16:56:25,407 :INFO : test_e2e : Getting all the cart Titles
+2020-09-28 16:56:25,450 :INFO : test_e2e : iphone X
+2020-09-28 16:56:25,469 :INFO : test_e2e : Samsung Note 8
+2020-09-28 16:56:25,487 :INFO : test_e2e : Nokia Edge
+2020-09-28 16:56:25,506 :INFO : test_e2e : Blackberry
+2020-09-28 16:56:25,756 :INFO : test_e2e : Entering Country Name-IND
+2020-09-28 16:56:31,438 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 16:57:17,812 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 16:57:17,812 :INFO : test_formSubmission : Name isShivangi
+2020-09-28 16:57:18,794 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 16:57:18,794 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 16:57:18,794 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 16:57:18,794 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 16:57:45,403 :INFO : test_e2e : Getting all the cart Titles
+2020-09-28 16:57:45,447 :INFO : test_e2e : iphone X
+2020-09-28 16:57:45,459 :INFO : test_e2e : Samsung Note 8
+2020-09-28 16:57:45,470 :INFO : test_e2e : Nokia Edge
+2020-09-28 16:57:45,482 :INFO : test_e2e : Blackberry
+2020-09-28 16:57:45,679 :INFO : test_e2e : Entering Country Name-IND
+2020-09-28 16:57:51,221 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 17:05:16,252 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 17:05:16,252 :INFO : test_formSubmission : Name isShivangi
+2020-09-28 17:05:30,604 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 17:05:30,604 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 17:05:30,605 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 17:05:30,605 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 17:05:58,289 :INFO : test_e2e : Getting all the cart Titles
+2020-09-28 17:05:58,330 :INFO : test_e2e : iphone X
+2020-09-28 17:05:58,342 :INFO : test_e2e : Samsung Note 8
+2020-09-28 17:05:58,354 :INFO : test_e2e : Nokia Edge
+2020-09-28 17:05:58,365 :INFO : test_e2e : Blackberry
+2020-09-28 17:05:58,555 :INFO : test_e2e : Entering Country Name-IND
+2020-09-28 17:06:04,179 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 19:02:07,022 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 19:02:07,022 :INFO : test_formSubmission : Name isShivangi
+2020-09-28 19:02:08,056 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 19:02:08,056 :INFO : test_formSubmission : Entering data for form submission
+2020-09-28 19:02:08,056 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 19:02:08,056 :INFO : test_formSubmission : Name isKrishna
+2020-09-28 19:02:34,804 :INFO : test_e2e : Getting all the cart Titles
+2020-09-28 19:02:34,846 :INFO : test_e2e : iphone X
+2020-09-28 19:02:34,857 :INFO : test_e2e : Samsung Note 8
+2020-09-28 19:02:34,871 :INFO : test_e2e : Nokia Edge
+2020-09-28 19:02:34,883 :INFO : test_e2e : Blackberry
+2020-09-28 19:02:35,103 :INFO : test_e2e : Entering Country Name-IND
+2020-09-28 19:02:40,708 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 15:56:47,764 :INFO : test_formSubmission : Entering data for form submission
+2020-09-29 16:06:30,823 :INFO : test_formSubmission : Entering data for form submission
+2020-09-29 16:06:30,824 :INFO : test_formSubmission : Name isShivangi
+2020-09-29 18:32:55,895 :INFO : test_formSubmission : Entering data for form submission
+2020-09-29 18:32:55,895 :INFO : test_formSubmission : Name isShivangi
+2020-09-29 18:33:23,333 :INFO : test_e2e : Getting all the cart Titles
+2020-09-29 18:33:23,381 :INFO : test_e2e : iphone X
+2020-09-29 18:33:23,393 :INFO : test_e2e : Samsung Note 8
+2020-09-29 18:33:23,404 :INFO : test_e2e : Nokia Edge
+2020-09-29 18:33:23,415 :INFO : test_e2e : Blackberry
+2020-09-29 18:33:23,642 :INFO : test_e2e : Entering Country Name-IND
+2020-09-29 18:33:29,158 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 18:42:22,376 :INFO : test_formSubmission : Entering data for form submission
+2020-09-29 18:42:22,376 :INFO : test_formSubmission : Name isShivangi
+2020-09-29 18:42:48,438 :INFO : test_e2e : Getting all the cart Titles
+2020-09-29 18:42:48,482 :INFO : test_e2e : iphone X
+2020-09-29 18:42:48,496 :INFO : test_e2e : Samsung Note 8
+2020-09-29 18:42:48,507 :INFO : test_e2e : Nokia Edge
+2020-09-29 18:42:48,518 :INFO : test_e2e : Blackberry
+2020-09-29 18:42:48,756 :INFO : test_e2e : Entering Country Name-IND
+2020-09-29 18:42:54,323 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 18:56:01,773 :INFO : test_formSubmission : Entering data for form submission
+2020-09-29 18:56:01,773 :INFO : test_formSubmission : Name isShivangi
+2020-09-29 18:56:28,116 :INFO : test_e2e : Getting all the cart Titles
+2020-09-29 18:56:28,153 :INFO : test_e2e : iphone X
+2020-09-29 18:56:28,164 :INFO : test_e2e : Samsung Note 8
+2020-09-29 18:56:28,176 :INFO : test_e2e : Nokia Edge
+2020-09-29 18:56:28,192 :INFO : test_e2e : Blackberry
+2020-09-29 18:56:28,415 :INFO : test_e2e : Entering Country Name-IND
+2020-09-29 18:56:33,908 :INFO : test_e2e : Text received form application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
