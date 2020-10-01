@@ -57,4 +57,7 @@ class HomePage :
     def getAlertMsg(self):
         return self.driver.find_element(*HomePage.alertmsg)
 
+    def getAlertABCD(self):
+        return self.driver.find_element(*HomePage.alertmsg)
+
     
