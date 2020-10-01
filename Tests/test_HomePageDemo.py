@@ -39,7 +39,7 @@ class TestHomePage(BaseClassA):
         self.driver.refresh()
         
     #Passing data by tuple & dictionary    
-    #@pytest.fixture(params=[("Shivangi","Maurya@gmail.com","Female"),("Krishna","Kumar@gmail.com","Male")])
+    @pytest.fixture(params=[("Shivangi","Maurya@gmail.com","Female"),("Krishna","Kumar@gmail.com","Male")])
     @pytest.fixture(params=HomePageData.getTestData("TestCase2"))
     def getData(self,request):
         return request.param
